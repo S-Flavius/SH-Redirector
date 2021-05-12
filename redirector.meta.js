@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SH redirect
 // @namespace    https://github.com/S-Flavius/SH-Redirector
-// @version      1.1
+// @version      1.12
 // @description  Redirect button to SH guides from TSA
 // @author       Rederdex
 // @match        https://truesteamachievements.com/game/*/achievements*
