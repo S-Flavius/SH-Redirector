@@ -8,6 +8,7 @@
 // @updateURL    https://github.com/S-Flavius/SH-Redirector/edit/main/redirector.js
 // @downloadURL  https://github.com/S-Flavius/SH-Redirector/edit/main/redirector.js
 // @grant        none
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
