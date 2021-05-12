@@ -10,10 +10,6 @@
 // @grant        none
 // ==/UserScript==
 
-
-//test
-
-
 (function() {
     var button = document.createElement("button");
     button.innerHTML = "Steam Hunters";
