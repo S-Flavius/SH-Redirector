@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         SH redirect
+// @namespace    https://github.com/S-Flavius/SH-Redirector
+// @version      1.0
+// @description  Redirect button to SH guides from TSA
+// @author       Rederdex
+// @match        https://truesteamachievements.com/game/*/achievements
+// @grant        none
+// ==/UserScript==
+
 (function() {
     var button = document.createElement("button");
     button.innerHTML = "Steam Hunters";
