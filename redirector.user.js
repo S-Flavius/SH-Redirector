@@ -5,7 +5,6 @@
 // @description  Redirect button to SH guides from TSA
 // @author       Rederdex
 // @match        https://truesteamachievements.com/game/*/achievements*
-// @match        https://astats.astats.nl/astats/Steam_Game_Info.php?AppID=*
 // @updateURL    https://github.com/S-Flavius/SH-Redirector/raw/main/redirector.meta.js
 // @downloadURL  https://github.com/S-Flavius/SH-Redirector/raw/main/redirector.user.js
 // @grant        none
